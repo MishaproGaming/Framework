@@ -91,3 +91,4 @@ def comand (): # функция направлена на исполнение �
 
 
 print(comand())s
+print ("by MishaproGaming")
